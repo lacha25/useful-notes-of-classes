@@ -1,6 +1,6 @@
 # Useful Notes of Classes
-
-This repository organizes the provided class notes into separate topic files for quick review.
+Did you forget everything you learned ? me too.
+I wrote down the bare minimum so that I can say that I remember something.
 
 ## Topics
 
